@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dynamic Fragment Demo</string>
+
+    <string name="fragment_one">Fragment One</string>
+    <string name="fragment_two">Fragment Two</string>
+    <string name="fragment_three">Fragment Three</string>
+
+    <string name="button_add">Add</string>
+    <string name="button_pop">POP</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_replace">Replace</string>
+
+</resources>
